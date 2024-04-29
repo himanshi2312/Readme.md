@@ -21,6 +21,8 @@ Here are some ideas to get you started:-->
 - MongoDB
 - SQL
 - ComputerVision
+- NLP
+- DEEP LEARNING
 
 ## Let's Connect
 - [LINKEDIN](https://www.linkedin.com/in/himanshi-joshi-39ba12202/)
